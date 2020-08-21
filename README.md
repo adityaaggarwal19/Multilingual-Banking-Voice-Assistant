@@ -8,6 +8,6 @@ It can handle various banking activities like querying account balance, filling 
 **Technology Stack:** Dialogflow, Google Cloud APIs, AWS Lambda, AWS DynamoDB, Vue.js, Laravel
 <br/>
 <br/>
-You can see live demo of the project here:-
+You can see live demo of the project here:-<br/>
 https://www.youtube.com/watch?v=T1cBttVZ-7c
 
