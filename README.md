@@ -3,6 +3,8 @@ A Multilingual Voice-Based Chatbot as a part of the problem statement given by K
 <br/>
 <br/>
 It can handle various banking activities like querying account balance, filling forms via voice in regional languages like Hindi, Gujarati, Tamil, Marathi, etc.
+<br/>
+<br/>
 **Technology Stack:** Dialogflow, Google Cloud APIs, AWS Lambda, AWS DynamoDB, Vue.js, Laravel
 <br/>
 <br/>
